@@ -5,8 +5,8 @@ layout: default
 <div class="home">
     <div class="row pack">
         {% for post in paginator.posts %}
+        	<a href="{{ post.url | prepend: site.baseurl }}">
             <div class="col-md-4 card">
-
                 <div class="panel panel-default">
                   <div class="panel-body">
                     <h3 class="panel-title pull-left">{{ post.title | truncate: 40 }}</h3>
@@ -23,6 +23,7 @@ layout: default
                   </div>
                 </div>
             </div>
+            </a>
           {% endfor %}
     </div> 
 <div class="row">

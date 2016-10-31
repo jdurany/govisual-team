@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GoVisual Team</title>
+    <description>Explore the best use of visuals to support team growth
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 31 Oct 2016 19:23:05 +1300</pubDate>
+    <lastBuildDate>Mon, 31 Oct 2016 19:23:05 +1300</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>Go visual and manage uncertainty</title>
+        <description>&lt;p&gt;This drawing was made just after attending to AgileNZ conference. Moved by the words of Lynne Cazaly and her fantastic session around the power of visuals I thought it would be a good experiment to go visual and process all the interesting insights I had floating in my head. This has probably been one of the most effective things I have done during the last months to focus myself on experimenting and having a clear mission in mind.&lt;/p&gt;
+
+&lt;p&gt;It really helped me to focus on the ideas I wanted to keep from the conference and forced me to make them simple enough to be represented by a word or a simple drawing. But, what I wasn’t expecting is that it would actually be even more powerful afterwards.&lt;/p&gt;
+
+&lt;p&gt;Once the drawing was finished I wanted to have it really accessible and I decided to use it as a background image in my mobile. Maybe I look at my mobile too much (this is different discussion) but the thing is that I naturally started looking at the picture and focusing myself on its messages, and with almost no effort I could see myself adding them to my day to day work.&lt;/p&gt;
+
+&lt;p&gt;We have already eaten failure cake with our teams to celebrate failure and learn from it as Ant Boobier suggested in his talk. And we have learnt a little bit more around our agile approaches and biases thanks to the model shared by Lyssa Adkins and Michael Spayd about organisational culture and relationships. We are also working on our own model to measure the team’s healthiness. But above all, we have definitely gone visual.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lamp-visuals.png&quot; alt=&quot;Visuals to represent our roadmap in team LAMP&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our teams, DREAM team and team LAMP, are now enjoying the same benefits of having a clear visual representation of their goals always with them. As Lynne mentioned during the conference, this has been a great way to improve our management of uncertainty; instead of trying to predefine all our work upfront we make use of our visuals to focus on the value we want to deliver, and the set of things we need to create to do so keep evolving as we go, always looking for the most effective solution that accomplishes the expected value.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/dream-visuals.png&quot; alt=&quot;Visuals to represent our roadmap in DREAM team&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our visuals have become the trigger to have valuable conversations in our backlog refinement sessions and we face user story detail level without losing our focus on the high level goal that we want to achieve. And we keep adapting our visuals to the best possible format depending on the situation, making use of our walls when we need our teams to have a clear goal in mind and also sharing our missions through google drawings with our distributed team members.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lamp-gdrawing.png&quot; alt=&quot;Google drawings to share our goals with our distributed team members&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Besides the benefit of having a clear shared goal in mind, we have also seen how visuals are naturally empowering the sense of engagement and alignment in our teams. For example, our teams have naturally started questioning every user story to understand whether it’s the best next step to accomplish our mission.&lt;/p&gt;
+
+&lt;p&gt;We will keep experimenting around the idea of making our goals visual and simple enough to keep us focused on what’s important, and we will for sure keep our insights from the last AgileNZ conference present to come up with new experiments that make us succeed in delivering the best possible value to our users.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Oct 2016 00:00:00 +1300</pubDate>
+        <link>http://localhost:4000/example-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/example-post/</guid>
+        
+        
+        <category>visuals</category>
+        
+        <category>uncertainty</category>
+        
+      </item>
+    
+  </channel>
+</rss>
